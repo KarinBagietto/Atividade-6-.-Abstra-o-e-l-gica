@@ -1,2 +1,2 @@
-# Atividade-6-.-Abstra-o-e-l-gica
+# Atividade-6
 Código da atividade Sus
